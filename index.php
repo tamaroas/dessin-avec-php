@@ -4,7 +4,7 @@
 	<title>géometrie</title>
 </head>
 <body>
-  <form action="construireRec.php" method="post">
+  <form action="construreC.php" method="post">
   	<label>rayon</label>
   	<input type="number" name="r"><br>
   	<label>couleur</label>
